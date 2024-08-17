@@ -1,5 +1,17 @@
 # halt-runner
 
+## Installation
+
+```
+go install github.com/martincohen/halt-runner@latest
+```
+
+## Running
+
+```
+halt-runner run.yaml
+```
+
 `run.yaml` example:
 
 ```yaml
